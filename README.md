@@ -24,8 +24,9 @@ A simple Python-based tool to encrypt and decrypt files using AES encryption and
 ## 📁 Project Structure
 
 Secure-File-Encryption/
-├── encryptor.py # Main script
-└── README.md # Documentation
+├── encryptor.py     # Main encryption/decryption script
+├── README.md        # Project documentation
+└── LICENSE          # MIT License file
 
 
 ---
