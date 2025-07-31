@@ -31,12 +31,12 @@ Secure-File-Encryption/
 ---
 
 ## 🚀 How to Run
-
-▶️ Step 1: Install Required Library
 ```bash
+
+### ▶️ Step 1: Install Required Library
 pip install cryptography
 
-▶️ Step 2: Run the Program
+### ▶️ Step 2: Run the Program
 python encryptor.py
 Follow the on-screen instructions:
 
